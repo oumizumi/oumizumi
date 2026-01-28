@@ -8,5 +8,6 @@ Focused on backend systems, AI, and infrastructure.
 **Links**  
 [Personal Site](https://oumizumi.com)  
 [E-mail](mailto:ofgharad@gmail.com)
+
 [LinkedIn](https://linkedin.com/in/oumzumi)  
 
